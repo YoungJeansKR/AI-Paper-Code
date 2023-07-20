@@ -12,25 +12,25 @@
 
 * AlexNet(2012) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* [GoogLeNet(2014)](https://deep-learning-study.tistory.com/389) [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/GoogLeNet(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/523)]
+* GoogLeNet(2014) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* [VGGNet(2014)](https://deep-learning-study.tistory.com/398) [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/VGGnet(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/521)]
+* VGGNet(2014) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* [ResNet(2015)](https://deep-learning-study.tistory.com/473) [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/ResNet(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/534?category=983681)]
+* ResNet(2015) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* [DenseNet(2017)](https://deep-learning-study.tistory.com/528) [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/DenseNet(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/545)]
+* DenseNet(2017) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* [MobileNetV1(2017)](https://deep-learning-study.tistory.com/532) [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/Xception(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/549)]
+* MobileNetV1(2017) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* [MobileNetV2(2018)](https://deep-learning-study.tistory.com/541)
+* MobileNetV2(2018) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* [MobileNetV3(2019)](https://deep-learning-study.tistory.com/551)
+* MobileNetV3(2019) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* [EfficientNet(2019)](https://deep-learning-study.tistory.com/552) [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/EfficientNet(2019).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/563)]
+* EfficientNet(2019) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* [VIT(2020)](https://deep-learning-study.tistory.com/716) [[pdf](https://arxiv.org/abs/2010.11929)] [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/ViT(2020).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/807)]
+* VIT(2020) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* [EfficientNetV2(2021)](https://deep-learning-study.tistory.com/567)
+* EfficientNetV2(2021) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
 ## Object Detection
 
