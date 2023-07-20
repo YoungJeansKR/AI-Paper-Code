@@ -12,13 +12,13 @@
 
 * AlexNet(2012) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* GoogLeNet(2014) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/GoogLeNet(2014).ipynb)]
+* VGGNet(2014) [[PDF](https://arxiv.org/pdf/1409.1556.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/VGGnet(2014).ipynb)]
 
-* VGGNet(2014) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/VGGnet(2014).ipynb)]
+* GoogLeNet(2014) [[PDF](https://arxiv.org/pdf/1409.4842.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/GoogLeNet(2014).ipynb)]
 
-* ResNet(2015) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/ResNet(2015).ipynb)]
+* ResNet(2015) [[PDF](https://arxiv.org/pdf/1512.03385.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/ResNet(2015).ipynb)]
 
-* DenseNet(2017) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/DenseNet(2017).ipynb)]
+* DenseNet(2017) [[PDF](https://arxiv.org/pdf/1608.06993.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/DenseNet(2017).ipynb)]
 
 * MobileNetV1(2017) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
