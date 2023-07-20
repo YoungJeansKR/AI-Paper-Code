@@ -12,6 +12,8 @@
 
 * AlexNet(2012) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
+* ZFNet(2013) [[PDF](https://arxiv.org/pdf/1311.2901.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/VGGnet(2014).ipynb)]
+
 * VGGNet(2014) [[PDF](https://arxiv.org/pdf/1409.1556.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/VGGnet(2014).ipynb)]
 
 * GoogLeNet(2014) [[PDF](https://arxiv.org/pdf/1409.4842.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/GoogLeNet(2014).ipynb)]
@@ -28,7 +30,7 @@
 
 * EfficientNet(2019) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
-* VIT(2020) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/ViT(2020).ipynb)]
+* Vision Transformer(2020) [[PDF](https://arxiv.org/pdf/2010.11929.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/ViT(2020).ipynb)]
 
 * EfficientNetV2(2021) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
@@ -36,7 +38,7 @@
 
 * R-CNN(2013) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* SPPnet(2014) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+* SPPNet(2014) [[PDF](https://arxiv.org/pdf/1406.4729.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 * Fast R-CNN(2014) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
