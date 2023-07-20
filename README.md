@@ -8,9 +8,9 @@
 * Self-Supervised Learning
 
 ## Classification
-* LeNet-5 (1998) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+* LeNet-5(1998) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [AlexNet(2012)](https://deep-learning-study.tistory.com/376) [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/AlexNet(2012).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/518)]
+* AlexNet(2012) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
 * [GoogLeNet(2014)](https://deep-learning-study.tistory.com/389) [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/GoogLeNet(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/523)]
 
