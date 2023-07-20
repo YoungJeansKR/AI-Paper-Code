@@ -34,74 +34,74 @@
 
 ## Object Detection
 
-* [R-CNN(2013)](https://deep-learning-study.tistory.com/410)
+* R-CNN(2013) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [SPPnet(2014)](https://deep-learning-study.tistory.com/445)
+* SPPnet(2014) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [Fast R-CNN(2014)](https://deep-learning-study.tistory.com/456)
+* Fast R-CNN(2014) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [Faster R-CNN(2015)](https://deep-learning-study.tistory.com/464) [PyTorch Code](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/Faster_R_CNN(2015)_%EB%AF%B8%EC%99%84%EC%84%B1.ipynb)
+* Faster R-CNN(2015) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [SSD(2016)](https://deep-learning-study.tistory.com/477)
+* SSD(2016) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [YOLOv1(2016)](https://deep-learning-study.tistory.com/430)
+* YOLOv1(2016) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [YOLOv2(2017)](https://deep-learning-study.tistory.com/433)
+* YOLOv2(2017) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [YOLOv3(2018)](https://deep-learning-study.tistory.com/509) [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/YOLOv3(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/568)]
+* YOLOv3(2018) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [YOLOv4(2020)](https://deep-learning-study.tistory.com/626) [[pdf](https://arxiv.org/abs/2004.10934)]
+* YOLOv4(2020) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [EfficientDet(2020)](https://deep-learning-study.tistory.com/627) [[pdf](https://arxiv.org/abs/1911.09070)] 
+* EfficientDet(2020) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [CircleNet(2020)](https://deep-learning-study.tistory.com/661) [[pdf](https://arxiv.org/pdf/2006.02474.pdf)]
+* CircleNet(2020) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [DETR(2020)](https://deep-learning-study.tistory.com/748) [[pdf](https://arxiv.org/abs/2005.12872)]
+* DETR(2020) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [Swin Transformer(2021)](https://deep-learning-study.tistory.com/728) [[pdf](https://arxiv.org/pdf/2103.14030v1.pdf)]
+* Swin Transformer(2021) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [YOLOr(2021)](https://deep-learning-study.tistory.com/739) [[pdf](https://arxiv.org/pdf/2105.04206v1.pdf)]
+* YOLOr(2021) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [YOLOS(2021)](https://deep-learning-study.tistory.com/826) [[pdf](https://arxiv.org/abs/2106.00666)]
+* YOLOS(2021) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 ## Segmentation
 
-* [DeepLabV1(2014)](https://deep-learning-study.tistory.com/564)
+* DeepLabV1(2014) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [FCN(2015)](https://deep-learning-study.tistory.com/562)
+* FCN(2015) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [DeConvNet(2015)](https://deep-learning-study.tistory.com/565)
+* DeConvNet(2015) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [DeepLabv3(2017)](https://deep-learning-study.tistory.com/877) [[pdf](https://arxiv.org/abs/1706.05587)]
+* DeepLabv3(2017) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [Mask R-CNN(2017)](https://deep-learning-study.tistory.com/571)
+* Mask R-CNN(2017) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 ## Natural Language Processing
 
-* [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685) [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)] [[pdf](https://arxiv.org/abs/1409.3215)]
+* Seq2Seq(2014) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [GRU(2014)](https://deep-learning-study.tistory.com/691) [[pdf](https://arxiv.org/abs/1406.1078)]
+* GRU(2014) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [Attention(2015)](https://deep-learning-study.tistory.com/697) [[odf](https://arxiv.org/pdf/1409.0473.pdf)]
+* Attention(2015) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [Convolutional Sequence to Sequence Learning(2017)](https://deep-learning-study.tistory.com/704) [[pdf](https://arxiv.org/pdf/1705.03122.pdf)]
+* Convolutional Sequence to Sequence Learning(2017) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [Transforemr(2017)](https://deep-learning-study.tistory.com/710) [[pdf](https://arxiv.org/abs/1706.03762)]
+* Transforemr(2017) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [BERT(2018)](https://deep-learning-study.tistory.com/770) [[pdf](https://arxiv.org/abs/1810.04805)]
+* BERT(2018) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 ## Generative Model
 
-* [GAN(2014)](https://deep-learning-study.tistory.com/638) [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/GAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/639)] [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
+* GAN(2014) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [CGAN(2014)](https://deep-learning-study.tistory.com/640) [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/CGAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/641)] [[pdf](https://arxiv.org/abs/1411.1784)]
+* CGAN(2014) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [Generative Moment Matching Network(2015)](https://deep-learning-study.tistory.com/893) [[pdf](https://arxiv.org/abs/1502.02761)]
+* Generative Moment Matching Network(2015) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [DCGAN(2015)](https://deep-learning-study.tistory.com/642) [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/pix2pix(2016).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/646)] [[pdf](https://arxiv.org/abs/1511.06434)]
+* DCGAN(2015) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-* [Pix2Pix(2016)](https://deep-learning-study.tistory.com/645) [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/DCGAN(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/643)] [[pdf](https://arxiv.org/abs/1611.07004)]
+* Pix2Pix(2016) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 ## Self-Supervised Learning
 
-* [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724) [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
+* Constrative Loss(2006) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
