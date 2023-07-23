@@ -1,6 +1,6 @@
 ## Contents
 
-* Cladssification
+* Classification
 * Object Detection
 * Segmentation
 * Face Recognition
