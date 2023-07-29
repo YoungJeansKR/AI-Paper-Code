@@ -70,7 +70,11 @@
 
 ## Face Recognition
 
+* DeepFace(2014) [[PDF](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
 * FaceNet(2015) [[PDF](https://arxiv.org/pdf/1503.03832.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
+* ArkFace(2018) [[PDF](https://arxiv.org/pdf/1801.07698.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 ## Natural Language Processing
 
