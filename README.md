@@ -60,13 +60,25 @@
 
 * Swin Transformer(2021) [[PDF](https://arxiv.org/pdf/2103.14030.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
+* CoAtNet(2021) [[PDF](https://arxiv.org/pdf/2106.04803.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
 ## Segmentation
 
 * DeepLabV1(2014) [[PDF](https://arxiv.org/pdf/1412.7062.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 * FCN(2015) [[PDF](https://arxiv.org/pdf/1411.4038.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
+* SegNet(2015) [[PDF](https://arxiv.org/pdf/1511.00561.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
+* U-Net(2015) [[PDF](https://arxiv.org/pdf/1505.04597.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
+* DeepLabV2(2016) [[PDF](https://arxiv.org/pdf/1606.00915.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
+* DeepLabV3(2017) [[PDF](https://arxiv.org/pdf/1706.05587.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
 * Mask R-CNN(2017) [[PDF](https://arxiv.org/pdf/1703.06870.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
+* DeepLabV3+(2018) [[PDF](https://arxiv.org/pdf/1802.02611.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 ## Face Recognition
 
