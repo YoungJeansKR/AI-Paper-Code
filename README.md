@@ -34,6 +34,8 @@
 
 * EfficientNetV2(2021) [[PDF](https://arxiv.org/pdf/2104.00298.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
 
+* CoAtNet(2021) [[PDF](https://arxiv.org/pdf/2106.04803.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
 ## Object Detection
 
 * R-CNN(2013) [[PDF](https://arxiv.org/pdf/1311.2524.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
@@ -59,8 +61,6 @@
 * DETR(2020) [[PDF](https://arxiv.org/pdf/2005.12872.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 * Swin Transformer(2021) [[PDF](https://arxiv.org/pdf/2103.14030.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
-
-* CoAtNet(2021) [[PDF](https://arxiv.org/pdf/2106.04803.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 ## Segmentation
 
