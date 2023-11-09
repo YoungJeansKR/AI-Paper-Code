@@ -6,7 +6,7 @@
 * Face Recognition
 * Natural Language Processing
 * Generative Model
-d
+
 ## Classification
 * LeNet-5(1998) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
