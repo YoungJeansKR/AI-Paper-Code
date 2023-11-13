@@ -1,6 +1,6 @@
 ## Contents
 
-* Classification
+* Classificatdion
 * Object Detection
 * Segmentation
 * Face Recognition
