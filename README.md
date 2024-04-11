@@ -8,21 +8,14 @@
   * Face Recognition
   * Temporal Action Localization
   * Novel View Synthesis
-
 * Natural Language Processing
-
 * Speech Processing
   * Speech Synthesis
   * Voice Conversion
-
 * Reinforcement Learning
-
 * Explainable AI
-
 * Adversarial Attack
-
 * Self-Supervised Learning
-
 * Miscellaneous
   * Recommendation Systems
 
