@@ -1,11 +1,23 @@
 ## Contents
 
-* Classification
-* Object Detection
-* Segmentation
-* Face Recognition
+* Computer Vision
+  * Classification
+  * Object Detection
+  * Segmentation
+  * Generative Models
+  * Face Recognition
+  * Temporal Action Localization
+  * Novel View Synthesis
 * Natural Language Processing
-* Generative Model
+* Speech Processing
+  * Speech Synthesis
+  * Voice Conversion
+* Reinforcement Learning
+* Explainable AI
+* Adversarial Attack
+* Self-Supervised Learning
+* Miscellaneous
+  * Recommendation Systems
 
 ## Classification
 * LeNet-5(1998) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
