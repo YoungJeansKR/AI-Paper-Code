@@ -20,6 +20,7 @@
 - [Self-Supervised Learning](#self-supervised-learning)
 - [Miscellaneous](#miscellaneous)
   - [Recommendation Systems](#recommendation-systems)
+
 <!-- tocstop -->
 
 ## Computer Vision
