@@ -1,23 +1,26 @@
 ## Contents
 
-* Computer Vision
-  * Classification
-  * Object Detection
-  * Segmentation
-  * Generative Models
-  * Face Recognition
-  * Temporal Action Localization
-  * Novel View Synthesis
-* Natural Language Processing
-* Speech Processing
-  * Speech Synthesis
-  * Voice Conversion
-* Reinforcement Learning
-* Explainable AI
-* Adversarial Attack
-* Self-Supervised Learning
-* Miscellaneous
-  * Recommendation Systems
+<!-- toc -->
+
+- [Computer Vision](#computer-vision)
+  - [Classification](#classification)
+  - [Object Detection](#object-detection)
+  - [Segmentation](#segmentation)
+  - [Generative Models](#generative-models)
+  - [Face Recognition](#face-recognition)
+  - [Temporal Action Localization](#temporal-action-localization)
+  - [Novel View Synthesis](#novel-view-synthesis)
+- [Natural Language Processing](#natural-language-processing)
+- [Speech Processing](#speech-processing)
+  - [Speech Synthesis](#speech-synthesis)
+  - [Voice Conversion](#voice-conversion)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Explainable AI](#explainable-ai)
+- [Adversarial Attack](#adversarial-attack)
+- [Self-Supervised Learning](#self-supervised-learning)
+- [Miscellaneous](#miscellaneous)
+  - [Recommendation Systems](#recommendation-systems)
+<!-- tocstop -->
 
 ## Computer Vision
 
