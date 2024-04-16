@@ -19,7 +19,9 @@
 * Miscellaneous
   * Recommendation Systems
 
-## Classification
+## Computer Vision
+
+### Classification
 * LeNet-5(1998) [[PDF](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 * AlexNet(2012) [[PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/AlexNet(2012).ipynb)]
@@ -48,7 +50,7 @@
 
 * CoAtNet(2021) [[PDF](https://arxiv.org/pdf/2106.04803.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-## Object Detection
+### Object Detection
 
 * R-CNN(2013) [[PDF](https://arxiv.org/pdf/1311.2524.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
@@ -74,7 +76,7 @@
 
 * Swin Transformer(2021) [[PDF](https://arxiv.org/pdf/2103.14030.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-## Segmentation
+### Segmentation
 
 * DeepLabV1(2014) [[PDF](https://arxiv.org/pdf/1412.7062.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
@@ -92,13 +94,27 @@
 
 * DeepLabV3+(2018) [[PDF](https://arxiv.org/pdf/1802.02611.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-## Face Recognition
+### Generative Models
+
+* GAN(2014) [[PDF](https://arxiv.org/pdf/1406.2661.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
+* CGAN(2014) [[PDF](https://arxiv.org/pdf/1411.1784.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
+* DCGAN(2015) [[PDF](https://arxiv.org/pdf/1511.06434.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
+* Pix2Pix(2016) [[PDF](https://arxiv.org/pdf/1611.07004.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
+### Face Recognition
 
 * DeepFace(2014) [[PDF](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 * FaceNet(2015) [[PDF](https://arxiv.org/pdf/1503.03832.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 * ArkFace(2018) [[PDF](https://arxiv.org/pdf/1801.07698.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+
+### Temporal Action Localization
+
+### Novel View Synthesis
 
 ## Natural Language Processing
 
@@ -112,12 +128,20 @@
 
 * BERT(2018) [[PDF](https://arxiv.org/pdf/1810.04805.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
-## Generative Models
+## Speech Processing
 
-* GAN(2014) [[PDF](https://arxiv.org/pdf/1406.2661.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+### Speech Synthesis
 
-* CGAN(2014) [[PDF](https://arxiv.org/pdf/1411.1784.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+### Voice Conversion
 
-* DCGAN(2015) [[PDF](https://arxiv.org/pdf/1511.06434.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+## Reinforcement Learning
 
-* Pix2Pix(2016) [[PDF](https://arxiv.org/pdf/1611.07004.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
+## Explainable AI
+
+## Adversarial Attack
+
+## Self-Supervised Learning
+
+## Miscellaneous
+
+### Recommendation Systems
