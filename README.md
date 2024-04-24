@@ -133,7 +133,7 @@
 * BERT(2018) [[PDF](https://arxiv.org/pdf/1810.04805.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/LeNet_5(1998).ipynb)]
 
 ## Speech Processing
-ㄷ
+
 ### Speech Synthesis
 
 ### Voice Conversion
