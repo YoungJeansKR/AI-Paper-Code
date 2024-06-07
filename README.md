@@ -1,6 +1,6 @@
 ## Contents
 
-<!-- toc -->d
+<!-- toc -->
 
 - [Computer Vision](#computer-vision)
   - [Classification](#classification)
