@@ -11,6 +11,8 @@
   - [Temporal Action Localization](#temporal-action-localization)
   - [Novel View Synthesis](#novel-view-synthesis)
 - [Natural Language Processing](#natural-language-processing)
+  - [Architecture](#architecture)
+  - [Prompt Tuning](#prompt-tuning)
 - [Speech Processing](#speech-processing)
   - [Speech Synthesis](#speech-synthesis)
   - [Voice Conversion](#voice-conversion)
@@ -120,6 +122,8 @@
 
 ## Natural Language Processing
 
+### Architecture
+
 * Seq2Seq(2014) [[PDF](https://arxiv.org/pdf/1409.3215.pdf)]
 
 * GRU(2014) [[PDF](https://arxiv.org/pdf/1412.3555.pdf)]
@@ -129,6 +133,8 @@
 * Transforemr(2017) [[PDF](https://arxiv.org/pdf/1706.03762.pdf)]
 
 * BERT(2018) [[PDF](https://arxiv.org/pdf/1810.04805.pdf)]
+
+### Prompt Tuning
 
 ## Speech Processing
 
