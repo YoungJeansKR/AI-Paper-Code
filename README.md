@@ -120,6 +120,8 @@
 
 ### Novel View Synthesis
 
+* NeRF(2020) [[PDF](https://arxiv.org/pdf/2003.08934)]
+
 ## Natural Language Processing
 
 ### Architecture
