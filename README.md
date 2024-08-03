@@ -13,6 +13,7 @@
 - [Natural Language Processing](#natural-language-processing)
   - [Architecture](#architecture)
   - [Prompt Tuning](#prompt-tuning)
+  - [Parameter Efficient Fine-Tuning](#parameter-efficient-fine-tuning)
 - [Speech Processing](#speech-processing)
   - [Speech Synthesis](#speech-synthesis)
   - [Voice Conversion](#voice-conversion)
@@ -137,6 +138,8 @@
 * BERT(2018) [[PDF](https://arxiv.org/pdf/1810.04805.pdf)]
 
 ### Prompt Tuning
+
+### Parameter Efficient Fine-Tuning
 
 ## Speech Processing
 
