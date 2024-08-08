@@ -141,6 +141,8 @@
 
 ### Parameter Efficient Fine-Tuning
 
+* LoRA(2021) [[PDF](https://arxiv.org/pdf/2106.09685)]
+
 ## Speech Processing
 
 ### Speech Synthesis
