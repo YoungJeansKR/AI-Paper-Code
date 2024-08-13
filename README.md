@@ -109,6 +109,8 @@
 
 * Pix2Pix(2016) [[PDF](https://arxiv.org/pdf/1611.07004.pdf)]
 
+* DDPM(2020) [[PDF](https://arxiv.org/pdf/2006.11239)]
+
 ### Face Recognition
 
 * DeepFace(2014) [[PDF](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)]
