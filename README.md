@@ -161,6 +161,8 @@
 
 ## Self-Supervised Learning
 
+* DeepCluster(2018) [[PDF](https://arxiv.org/pdf/1807.05520)]
+
 ## Miscellaneous
 
 ### Recommendation Systems
