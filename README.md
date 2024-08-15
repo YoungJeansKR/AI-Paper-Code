@@ -145,6 +145,8 @@
 
 * Adapter(2019) [[PDF](https://arxiv.org/pdf/1902.00751)]
 
+* Prefix-Tuning(2021) [[PDF](https://arxiv.org/pdf/2101.00190)]
+
 * LoRA(2021) [[PDF](https://arxiv.org/pdf/2106.09685)]
 
 ## Speech Processing
