@@ -51,6 +51,8 @@
 
 * Vision Transformer(2020) [[PDF](https://arxiv.org/pdf/2010.11929.pdf)/[Code](https://github.com/kyj950514/AI-Paper-Review/blob/main/Classification/ViT(2020).ipynb)]
 
+* Swin Transformer(2021) [[PDF](https://arxiv.org/pdf/2103.14030.pdf)]
+
 * EfficientNetV2(2021) [[PDF](https://arxiv.org/pdf/2104.00298.pdf)]
 
 * CoAtNet(2021) [[PDF](https://arxiv.org/pdf/2106.04803.pdf)]
@@ -78,8 +80,6 @@
 * EfficientDet(2020) [[PDF](https://arxiv.org/pdf/1911.09070.pdf)]
 
 * DETR(2020) [[PDF](https://arxiv.org/pdf/2005.12872.pdf)]
-
-* Swin Transformer(2021) [[PDF](https://arxiv.org/pdf/2103.14030.pdf)]
 
 ### Segmentation
 
