@@ -81,6 +81,8 @@
 
 * DETR(2020) [[PDF](https://arxiv.org/pdf/2005.12872.pdf)]
 
+* Deformable DETR(2021) [[PDF](https://arxiv.org/pdf/2010.04159)]
+
 ### Segmentation
 
 * DeepLabV1(2014) [[PDF](https://arxiv.org/pdf/1412.7062.pdf)]
