@@ -169,6 +169,8 @@
 
 * DeepCluster(2018) [[PDF](https://arxiv.org/pdf/1807.05520)]
 
+* NPID(2018) [[PDF](https://arxiv.org/pdf/1805.01978)]
+
 ## Miscellaneous
 
 ### Recommendation Systems
