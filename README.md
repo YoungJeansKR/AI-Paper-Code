@@ -171,6 +171,8 @@
 
 * NPID(2018) [[PDF](https://arxiv.org/pdf/1805.01978)]
 
+* MAE(2021) [[PDF](https://arxiv.org/pdf/2111.06377)]
+
 ## Miscellaneous
 
 ### Recommendation Systems
