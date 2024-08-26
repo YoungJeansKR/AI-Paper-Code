@@ -75,6 +75,8 @@
 
 * YOLOv2(2017) [[PDF](https://arxiv.org/pdf/1612.08242.pdf)]
 
+* CornerNet(2019) [[PDF](https://arxiv.org/pdf/1808.01244)]
+
 * CenterNet(2019) [[PDF](https://arxiv.org/pdf/1904.07850.pdf)]
 
 * EfficientDet(2020) [[PDF](https://arxiv.org/pdf/1911.09070.pdf)]
