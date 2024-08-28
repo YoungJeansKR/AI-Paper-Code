@@ -175,6 +175,8 @@
 
 * SimCLR(2020) [[PDF](https://arxiv.org/pdf/2002.05709)]
 
+* DINO(2021) [[PDF](https://arxiv.org/pdf/2104.14294)]
+
 * MAE(2022) [[PDF](https://arxiv.org/pdf/2111.06377)]
 
 ## Miscellaneous
