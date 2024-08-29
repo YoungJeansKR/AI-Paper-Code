@@ -1,7 +1,7 @@
 ## Contents
 
 <!-- toc -->
-d
+
 - [Computer Vision](#computer-vision)
   - [Classification](#classification)
   - [Object Detection](#object-detection)
