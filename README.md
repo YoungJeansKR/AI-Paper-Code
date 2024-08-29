@@ -182,3 +182,5 @@
 ## Miscellaneous
 
 ### Recommendation Systems
+
+* DNN for Youtube(2016) [[PDF](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)]
