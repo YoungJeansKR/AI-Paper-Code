@@ -12,7 +12,6 @@
   - [Novel View Synthesis](#novel-view-synthesis)
 - [Natural Language Processing](#natural-language-processing)
   - [Architecture](#architecture)
-  - [Prompt Tuning](#prompt-tuning)
   - [Parameter Efficient Fine-Tuning](#parameter-efficient-fine-tuning)
 - [Speech Processing](#speech-processing)
   - [Speech Synthesis](#speech-synthesis)
@@ -142,8 +141,6 @@
 * Transforemr(2017) [[PDF](https://arxiv.org/pdf/1706.03762.pdf)]
 
 * BERT(2018) [[PDF](https://arxiv.org/pdf/1810.04805.pdf)]
-
-### Prompt Tuning
 
 ### Parameter Efficient Fine-Tuning
 
