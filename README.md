@@ -132,15 +132,23 @@
 
 ### Architecture
 
+* LSTM(1997) [[PDF](https://www.bioinf.jku.at/publications/older/2604.pdf)]
+
+* Bi-LSTM(1997) [[PDF](https://deeplearning.cs.cmu.edu/S24/document/readings/Bidirectional%20Recurrent%20Neural%20Networks.pdf)]
+
 * Seq2Seq(2014) [[PDF](https://arxiv.org/pdf/1409.3215.pdf)]
 
 * GRU(2014) [[PDF](https://arxiv.org/pdf/1412.3555.pdf)]
 
-* Attention(2015) [[PDF](https://arxiv.org/pdf/1508.04025.pdf)]
+* Attention(2014) [[PDF](https://arxiv.org/pdf/1508.04025.pdf)]
 
 * Transforemr(2017) [[PDF](https://arxiv.org/pdf/1706.03762.pdf)]
 
 * BERT(2018) [[PDF](https://arxiv.org/pdf/1810.04805.pdf)]
+
+* GPT(2018) [[PDF](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)]
+
+* Mamba(2023) [[PDF](https://arxiv.org/pdf/2312.00752)]
 
 ### Parameter Efficient Fine-Tuning
 
