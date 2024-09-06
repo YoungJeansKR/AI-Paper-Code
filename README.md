@@ -105,6 +105,8 @@
 
 ### Generative Models
 
+* VAE(2013) [[PDF](https://arxiv.org/pdf/1312.6114)]
+
 * GAN(2014) [[PDF](https://arxiv.org/pdf/1406.2661.pdf)]
 
 * CGAN(2014) [[PDF](https://arxiv.org/pdf/1411.1784.pdf)]
@@ -113,7 +115,15 @@
 
 * Pix2Pix(2016) [[PDF](https://arxiv.org/pdf/1611.07004.pdf)]
 
+* PGGAN(2017) [[PDF](https://arxiv.org/pdf/1710.10196)]
+
+* CycleGAN(2017) [[PDF](https://arxiv.org/pdf/1703.10593)]
+
+* SytleGAN(2014) [[PDF](https://arxiv.org/pdf/1812.04948f)]
+
 * DDPM(2020) [[PDF](https://arxiv.org/pdf/2006.11239)]
+
+* DDIM(2020) [[PDF](https://arxiv.org/pdf/2010.02502)]
 
 ### Face Recognition
 
@@ -124,6 +134,20 @@
 * ArkFace(2018) [[PDF](https://arxiv.org/pdf/1801.07698.pdf)]
 
 ### Temporal Action Localization
+
+* C3D(2015) [[PDF](https://arxiv.org/pdf/1412.0767)]
+
+* S-CNN(2016) [[PDF](https://arxiv.org/pdf/1601.02129)]
+
+* TAD(2017) [[PDF](https://arxiv.org/pdf/1704.06228)]
+
+* RTD-Net(2021) [[PDF](https://arxiv.org/pdf/2102.01894)]
+
+* E2E-TAD(2022) [[PDF](https://arxiv.org/pdf/2204.02932)]
+
+* TADTR(2022) [[PDF](https://arxiv.org/pdf/2106.10271)]
+
+* ReAct(2022) [[PDF](https://arxiv.org/pdf/2207.07097)]
 
 ### Novel View Synthesis
 
