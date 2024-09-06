@@ -169,7 +169,15 @@
 
 ## Reinforcement Learning
 
+* DQN(2013) [[PDF](https://arxiv.org/pdf/1312.5602)]
+
 ## Explainable AI
+
+* LRP(2015) [[PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable)]
+
+* CAM(2016) [[PDF](https://arxiv.org/pdf/1512.04150)]
+
+* Grad-CAM(2017) [[PDF](https://arxiv.org/pdf/1610.02391)]
 
 ## Adversarial Attack
 
@@ -180,6 +188,10 @@
 * NPID(2018) [[PDF](https://arxiv.org/pdf/1805.01978)]
 
 * SimCLR(2020) [[PDF](https://arxiv.org/pdf/2002.05709)]
+
+* MoCo(2020) [[PDF](https://arxiv.org/pdf/1911.05722)]
+
+* BYOL(2020) [[PDF](https://arxiv.org/pdf/2006.07733)]
 
 * DINO(2021) [[PDF](https://arxiv.org/pdf/2104.14294)]
 
