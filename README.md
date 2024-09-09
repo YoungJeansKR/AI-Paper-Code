@@ -188,7 +188,7 @@
 
 ## Vision-Language Models
 
-* CLIP(2021) [[PDF](https://arxiv.org/pdf/2103.00020)]/[Code](https://github.com/OpenAI/CLIP)]
+* CLIP(2021) [[PDF](https://arxiv.org/pdf/2103.00020)/[Code](https://github.com/OpenAI/CLIP)]
 
 * ALIGN(2021) [[PDF](https://arxiv.org/pdf/2102.05918)]
 
