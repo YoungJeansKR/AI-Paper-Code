@@ -189,7 +189,23 @@
 
 ### Speech Synthesis
 
+* WaveNet(2016) [[PDF](https://arxiv.org/pdf/1609.03499]
+
+* Tacotron(2017) [[PDF](https://arxiv.org/pdf/1703.10135)]
+
+* Tacotron2(2018) [[PDF](https://arxiv.org/pdf/1712.05884)]
+
+* FastSpeech(2019) [[PDF](https://arxiv.org/pdf/1905.09263)]
+
+* Transformer TTS(2019) [[PDF](https://arxiv.org/pdf/1809.08895)]
+
+* HiFi-GAN(2020) [[PDF](https://arxiv.org/pdf/2010.05646)]
+
 ### Voice Conversion
+
+* AutoVC(2019) [[PDF](https://arxiv.org/pdf/1905.05879)]
+
+* DiffSVC(2021) [[PDF](https://arxiv.org/pdf/2105.13871)]
 
 ## Reinforcement Learning
 
