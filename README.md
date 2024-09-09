@@ -189,7 +189,7 @@
 
 ### Speech Synthesis
 
-* WaveNet(2016) [[PDF](https://arxiv.org/pdf/1609.03499]
+* WaveNet(2016) [[PDF](https://arxiv.org/pdf/1609.03499)]
 
 * Tacotron(2017) [[PDF](https://arxiv.org/pdf/1703.10135)]
 
