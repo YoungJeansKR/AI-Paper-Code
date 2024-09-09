@@ -13,6 +13,7 @@
 - [Natural Language Processing](#natural-language-processing)
   - [Architecture](#architecture)
   - [Parameter Efficient Fine-Tuning](#parameter-efficient-fine-tuning)
+- [Vision-Language Models](#vision-language-models)
 - [Speech Processing](#speech-processing)
   - [Speech Synthesis](#speech-synthesis)
   - [Voice Conversion](#voice-conversion)
@@ -184,6 +185,8 @@
 * LoRA(2021) [[PDF](https://arxiv.org/pdf/2106.09685)]
 
 * QLoRA(2024) [[PDF](https://arxiv.org/pdf/2305.14314)]
+
+## Vision-Language Models
 
 ## Speech Processing
 
