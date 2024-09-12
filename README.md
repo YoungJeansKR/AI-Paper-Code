@@ -80,11 +80,11 @@
 
 * CenterNet(2019) [[PDF](https://arxiv.org/pdf/1904.07850.pdf)]
 
-* EfficientDet(2020) [[PDF](https://arxiv.org/pdf/1911.09070.pdf)]
+* EfficientDet(2020) [[PDF](https://arxiv.org/pdf/1911.09070.pdf)/[Code](https://github.com/google/automl/tree/master/efficientdetr)]
 
-* DETR(2020) [[PDF](https://arxiv.org/pdf/2005.12872.pdf)]
+* DETR(2020) [[PDF](https://arxiv.org/pdf/2005.12872.pdf)/[Code](https://github.com/facebookresearch/detr)]
 
-* Deformable DETR(2021) [[PDF](https://arxiv.org/pdf/2010.04159)]
+* Deformable DETR(2021) [[PDF](https://arxiv.org/pdf/2010.04159)/[Code](https://github.com/fundamentalvision/Deformable-DETR)]
 
 ### Segmentation
 
