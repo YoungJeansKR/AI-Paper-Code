@@ -56,7 +56,9 @@
 
 * EfficientNetV2(2021) [[PDF](https://arxiv.org/pdf/2104.00298.pdf)/[Code](https://github.com/google/automl/tree/master/efficientnetv2)]
 
-* CoAtNet(2021) [[PDF](https://arxiv.org/pdf/2106.04803.pdf)]
+* CoAtNet(2021) [[PDF](https://arxiv.org/pdf/2106.04803.pdf)/[Code](https://github.com/chinhsuanwu/coatnet-pytorch)]
+
+* Vision Mamba(2021) [[PDF](https://arxiv.org/pdf/2401.09417)/[Code](https://github.com/hustvl/Vim)]
 
 ### Object Detection
 
