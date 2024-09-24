@@ -176,6 +176,8 @@
 
 * Mamba(2023) [[PDF](https://arxiv.org/pdf/2312.00752)]
 
+* Jamba(2024) [[PDF](https://arxiv.org/pdf/2403.19887)/[Code](https://huggingface.co/ai21labs/Jamba-v0.1)]
+
 ### Parameter Efficient Fine-Tuning
 
 * Adapter(2019) [[PDF](https://arxiv.org/pdf/1902.00751)]
@@ -191,6 +193,10 @@
 * CLIP(2021) [[PDF](https://arxiv.org/pdf/2103.00020)/[Code](https://github.com/OpenAI/CLIP)]
 
 * ALIGN(2021) [[PDF](https://arxiv.org/pdf/2102.05918)]
+
+* GLIP(2021) [[PDF](https://arxiv.org/pdf/2112.03857)/[Code](https://github.com/microsoft/GLIP)]
+
+* GLIPv2(2022) [[PDF](https://arxiv.org/abs/2206.05836)/[Code](https://github.com/microsoft/GLIP)]
 
 ## Speech Processing
 
