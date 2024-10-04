@@ -248,7 +248,7 @@
 
 * BYOL(2020) [[PDF](https://arxiv.org/pdf/2006.07733)]
 
-* DINO(2021) [[PDF](https://arxiv.org/pdf/2104.14294)]
+* DINO(2021) [[PDF](https://arxiv.org/pdf/2104.14294)/[Code](https://github.com/facebookresearch/dino)]
 
 * MAE(2022) [[PDF](https://arxiv.org/pdf/2111.06377)]
 
