@@ -246,7 +246,7 @@
 
 * MoCo(2020) [[PDF](https://arxiv.org/pdf/1911.05722)]
 
-* BYOL(2020) [[PDF](https://arxiv.org/pdf/2006.07733)]
+* BYOL(2020) [[PDF](https://arxiv.org/pdf/2006.07733)/[Code](https://github.com/google-deepmind/deepmind-research/tree/master/byol)]
 
 * DINO(2021) [[PDF](https://arxiv.org/pdf/2104.14294)/[Code](https://github.com/facebookresearch/dino)]
 
