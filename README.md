@@ -88,6 +88,8 @@
 
 * Deformable DETR(2021) [[PDF](https://arxiv.org/pdf/2010.04159)/[Code](https://github.com/fundamentalvision/Deformable-DETR)]
 
+* RT-DETR(2024) [[PDF](https://arxiv.org/pdf/2304.08069)/[Code](https://github.com/lyuwenyu/RT-DETR)]
+
 ### Segmentation
 
 * DeepLabV1(2014) [[PDF](https://arxiv.org/pdf/1412.7062.pdf)]
