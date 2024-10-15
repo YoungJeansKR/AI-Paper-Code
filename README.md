@@ -200,6 +200,8 @@
 
 * GLIP(2021) [[PDF](https://arxiv.org/pdf/2112.03857)/[Code](https://github.com/microsoft/GLIP)]
 
+* BLIP(2022) [[PDF](https://arxiv.org/pdf/2201.12086)/[Code](https://github.com/salesforce/BLIP)]
+
 * GLIPv2(2022) [[PDF](https://arxiv.org/abs/2206.05836)/[Code](https://github.com/microsoft/GLIP)]
 
 ## Speech Processing
