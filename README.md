@@ -240,6 +240,18 @@
 
 ## Adversarial Attack
 
+* FGSM(2015) [[PDF](https://arxiv.org/pdf/1412.6572)]
+
+* CW Attack(2017) [[PDF](https://arxiv.org/pdf/1608.04644)]
+
+* PGD Training(2017) [[PDF](https://arxiv.org/pdf/1706.06083)]
+
+* Adversarial Patch(2018) [[PDF](https://arxiv.org/pdf/1712.09665)]
+
+* BPDA(2018) [[PDF](https://arxiv.org/pdf/1802.00420)]
+
+* Pixel DP(2019) [[PDF](https://arxiv.org/pdf/1802.03471)/[Code](https://github.com/columbia/pixeldp)]
+
 ## Self-Supervised Learning
 
 * DeepCluster(2018) [[PDF](https://arxiv.org/pdf/1807.05520)]
