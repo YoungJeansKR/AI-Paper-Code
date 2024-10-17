@@ -190,6 +190,8 @@
 
 * LoRA(2021) [[PDF](https://arxiv.org/pdf/2106.09685)]
 
+* MAM Adapter(2022) [[PDF]https://arxiv.org/pdf/2110.04366)/[Code](https://github.com/jxhe/unify-parameter-efficient-tuning)]
+
 * QLoRA(2024) [[PDF](https://arxiv.org/pdf/2305.14314)]
 
 ## Vision-Language Models
