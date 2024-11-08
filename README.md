@@ -1,5 +1,5 @@
 ## Contents
-d
+
 <!-- toc -->
 
 - [Computer Vision](#computer-vision)
