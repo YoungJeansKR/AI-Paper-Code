@@ -134,7 +134,7 @@
 
 * DeepFace(2014) [[PDF](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)]
 
-* FaceNet(2015) [[PDF](https://arxiv.org/pdf/1503.03832.pdf)]
+* FaceNet(2015) [[PDF](https://arxiv.org/pdf/1503.03832.pdf)/[Code](https://github.com/davidsandberg/facenet)]
 
 * ArkFace(2018) [[PDF](https://arxiv.org/pdf/1801.07698.pdf)]
 
