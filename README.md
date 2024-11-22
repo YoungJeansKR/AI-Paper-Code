@@ -74,7 +74,7 @@
 
 * SSD(2016) [[PDF](https://arxiv.org/pdf/1512.02325.pdf)/[Code](https://github.com/weiliu89/caffe/tree/ssd)]
 
-* FPN(2017) [[PDF](https://arxiv.org/pdf/1612.03144.pdf)]
+* FPN(2017) [[PDF](https://arxiv.org/pdf/1612.03144.pdf)/[Code](https://github.com/kuangliu/pytorch-fpn)]
 
 * YOLOv2(2017) [[PDF](https://arxiv.org/pdf/1612.08242.pdf)]
 
