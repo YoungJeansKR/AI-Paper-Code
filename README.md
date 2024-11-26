@@ -96,7 +96,7 @@
 
 * FCN(2015) [[PDF](https://arxiv.org/pdf/1411.4038.pdf)/[Code](https://github.com/pochih/FCN-pytorch)]
 
-* SegNet(2015) [[PDF](https://arxiv.org/pdf/1511.00561.pdf)]
+* SegNet(2015) [[PDF](https://arxiv.org/pdf/1511.00561.pdf)/[Code](https://github.com/kulkarnikeerti/SegNet-Semantic-Segmentation)]
 
 * U-Net(2015) [[PDF](https://arxiv.org/pdf/1505.04597.pdf)]
 
