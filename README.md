@@ -64,7 +64,7 @@
 
 * R-CNN(2013) [[PDF](https://arxiv.org/pdf/1311.2524.pdf)/[Code](https://github.com/rbgirshick/rcnn)]
 
-* SPPNet(2014) [[PDF](https://arxiv.org/pdf/1406.4729.pdf)]
+* SPPNet(2014) [[PDF](https://arxiv.org/pdf/1406.4729.pdf)/[Code](https://github.com/yifanjiang19/sppnet-pytorch)]
 
 * Fast R-CNN(2014) [[PDF](https://arxiv.org/pdf/1504.08083.pdf)/[Code](https://github.com/rbgirshick/fast-rcnn)]
 
