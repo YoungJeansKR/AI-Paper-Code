@@ -132,7 +132,7 @@
 
 ### Face Recognition
 
-* DeepFace(2014) [[PDF](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)]
+* DeepFace(2014) [[PDF](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)/[Code](https://github.com/swghosh/DeepFace)]
 
 * FaceNet(2015) [[PDF](https://arxiv.org/pdf/1503.03832.pdf)/[Code](https://github.com/davidsandberg/facenet)]
 
