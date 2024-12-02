@@ -110,7 +110,7 @@
 
 ### Generative Models
 
-* VAE(2013) [[PDF](https://arxiv.org/pdf/1312.6114)]
+* VAE(2013) [[PDF](https://arxiv.org/pdf/1312.6114)/[Code](https://github.com/AntixK/PyTorch-VAE)]
 
 * GAN(2014) [[PDF](https://arxiv.org/pdf/1406.2661.pdf)]
 
