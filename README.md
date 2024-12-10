@@ -44,7 +44,7 @@
 
 * MobileNetV1(2017) [[PDF](https://arxiv.org/pdf/1704.04861.pdf)/[Code](https://github.com/Zehaos/MobileNet)]
 
-* MobileNetV2(2018) [[PDF](https://arxiv.org/pdf/1801.04381.pdf)]
+* MobileNetV2(2018) [[PDF](https://arxiv.org/pdf/1801.04381.pdf)/[Code]([https://github.com/Zehaos/MobileNet](https://github.com/moelgendy/mobileNetV2))]
 
 * MobileNetV3(2019) [[PDF](https://arxiv.org/pdf/1905.02244.pdf)]
 
