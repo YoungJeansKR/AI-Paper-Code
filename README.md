@@ -70,7 +70,7 @@
 
 * Faster R-CNN(2015) [[PDF](https://arxiv.org/pdf/1506.01497.pdf)/[Code](https://github.com/jwyang/faster-rcnn.pytorch)]
 
-* YOLOv1(2016) [[PDF](https://arxiv.org/pdf/1506.02640.pdf)]
+* YOLOv1(2016) [[PDF](https://arxiv.org/pdf/1506.02640.pdf)/[Code](https://github.com/tanjeffreyz/yolo-v1)]
 
 * SSD(2016) [[PDF](https://arxiv.org/pdf/1512.02325.pdf)/[Code](https://github.com/weiliu89/caffe/tree/ssd)]
 
