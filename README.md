@@ -76,7 +76,7 @@
 
 * FPN(2017) [[PDF](https://arxiv.org/pdf/1612.03144.pdf)/[Code](https://github.com/kuangliu/pytorch-fpn)]
 
-* YOLOv2(2017) [[PDF](https://arxiv.org/pdf/1612.08242.pdf)]
+* YOLOv2(2017) [[PDF](https://arxiv.org/pdf/1612.08242.pdf)/[Code](https://github.com/vietnh1009/Yolo-v2-pytorch)]
 
 * CornerNet(2019) [[PDF](https://arxiv.org/pdf/1808.01244)]
 
