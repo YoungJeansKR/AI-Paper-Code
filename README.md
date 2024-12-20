@@ -78,7 +78,7 @@
 
 * YOLOv2(2017) [[PDF](https://arxiv.org/pdf/1612.08242.pdf)/[Code](https://github.com/vietnh1009/Yolo-v2-pytorch)]
 
-* CornerNet(2019) [[PDF](https://arxiv.org/pdf/1808.01244)]
+* CornerNet(2019) [[PDF](https://arxiv.org/pdf/1808.01244)/[Code](https://github.com/princeton-vl/CornerNet)]
 
 * CenterNet(2019) [[PDF](https://arxiv.org/pdf/1904.07850.pdf)]
 
